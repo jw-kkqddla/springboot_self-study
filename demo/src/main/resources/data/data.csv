@@ -1,0 +1,11 @@
+goodsId,type,goodsName,price,inventory,salenum
+2,drink,water,2,100,0
+3,drink,orange,3,101,1
+4,drink,sprite,3,102,2
+5,drink,tea,5,103,3
+6,drink,tea,5,104,4
+7,drink,tea,5,105,5
+9,drink,tea,5,106,6
+10,drink,tea,5,107,7
+12,drink,tea,5,108,8
+13,drink,tea,5,109,9
